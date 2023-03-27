@@ -19,11 +19,11 @@ My resume is [here](https://www.lwg.no/resume). If you have a role in mind, and 
 
 ### Code
 
-[![Languages](https://skillicons.dev/icons?i=cs,c,cpp,go,java,js,bash,kotlin,html,css,swift,php,cmake,md,powershell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cs,c,cpp,go,js,bash,kotlin,swift,cmake,md,powershell)](https://skillicons.dev)
 
 ### Frameworks and Technologies
 
-[![Frameworks and Technologies](https://skillicons.dev/icons?i=unreal,unity,nodejs,dotnet,express,bootstrap,wasm)](https://skillicons.dev)
+[![Frameworks and Technologies](https://skillicons.dev/icons?i=unreal,unity,nodejs,dotnet,bootstrap,wasm)](https://skillicons.dev)
 
 ### Databases
 
@@ -35,4 +35,4 @@ My resume is [here](https://www.lwg.no/resume). If you have a role in mind, and 
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,visualstudio,github,vim)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,visualstudio,githubactions,vim)](https://skillicons.dev)
