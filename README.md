@@ -2,7 +2,7 @@
 
 Nice to meet you, I'm Leif.
 
-- 🏢 Senior Software Architect, Data and ML @ Tieto Banktech
+- 🏢 Senior Software Architect, Data & ML
 - 🏠 Oslo, Norway; previously Cambridge, UK
 - 🥇 Competitive Pokémon TCG player (and Judge!)
 - 😍 Geese, accessible VR, Pepsi Max, and most things two-wheeled
